@@ -1,7 +1,1 @@
-echo "# Factors-Leading-to-Flight-Cancellations-and-Delays" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/TrieuNguyen-data/Factors-Leading-to-Flight-Cancellations-and-Delays.git
-git push -u origin main
+Dataset : https://www.kaggle.com/datasets/bordanova/2023-us-civil-flights-delay-meteo-and-aircraft/data
